@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/veeb-11-23-loeng-2/static/css/main.f855e6bc.css",
+    "main.js": "/veeb-11-23-loeng-2/static/js/main.df0cfe1a.js",
+    "static/js/787.edb05d1a.chunk.js": "/veeb-11-23-loeng-2/static/js/787.edb05d1a.chunk.js",
+    "static/media/pariis-pilt.jpg": "/veeb-11-23-loeng-2/static/media/pariis-pilt.98505497325e62f8db98.jpg",
+    "index.html": "/veeb-11-23-loeng-2/index.html",
+    "main.f855e6bc.css.map": "/veeb-11-23-loeng-2/static/css/main.f855e6bc.css.map",
+    "main.df0cfe1a.js.map": "/veeb-11-23-loeng-2/static/js/main.df0cfe1a.js.map",
+    "787.edb05d1a.chunk.js.map": "/veeb-11-23-loeng-2/static/js/787.edb05d1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.df0cfe1a.js"
+  ]
+}
