@@ -1,7 +1,8 @@
-const Linn = (props) => (
+const Linn = ({ linn: { nimi, kirjeldus, pilt } }) => (
     <div>
-        <div>{ props.andmed.nimi }</div>
-        <img src={ props.andmed.pilt } />
+        <div>{nimi}</div>
+        <div>{kirjeldus}</div>
+        <img src={pilt} />
     </div>
 )
 
